@@ -1,100 +1,173 @@
-
 <div align="center">
 
-<!-- ANIMATED HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Abhishek%20Kumar%20Rana&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=58&descSize=18&animation=fadeIn" />
+<!-- ANIMATED HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,100:24243e&height=220&section=header&text=Abhishek%20Kumar%20Rana&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Spring%20Boot%20%7C%20DSA%20Enthusiast&descAlignY=60&descSize=17&animation=fadeIn"/>
 
-<!-- TYPING ANIMATION -->
+<!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Abhishek+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;TypeScript+%7C+Java+%7C+Next.js+Enthusiast;Building+things+that+matter+%F0%9F%92%AB;Open+to+Collabs+%26+New+Ideas+%F0%9F%A4%9D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Hey!+I'm+Abhishek+Kumar+Rana+%F0%9F%91%8B;Full+Stack+Dev+%7C+MERN+%2B+Spring+Boot+%F0%9F%9A%80;450%2B+LeetCode+Problems+Solved+%F0%9F%A7%A0;B.Tech+CSE+%40+BIT+Sindri+%F0%9F%8E%93;Building+Real-World+Products+%F0%9F%92%AB;Open+to+Internships+%26+Collabs+%F0%9F%A4%9D" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-<!-- PROFILE VIEWS & SOCIAL BADGES -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Abhishek-kumar-rana&label=Profile+Views&color=7c3aed&style=for-the-badge" alt="Profile Views" />
-  <a href="https://github.com/Abhishek-kumar-rana?tab=followers">
-    <img src="https://img.shields.io/github/followers/Abhishek-kumar-rana?label=Followers&style=for-the-badge&color=7c3aed&labelColor=1e1b4b" />
-  </a>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=for-the-badge&labelColor=052e16" />
-</p>
+<!-- BADGES -->
+<img src="https://komarev.com/ghpvc/?username=Abhishek-kumar-rana&label=Profile+Views&color=7c3aed&style=for-the-badge"/>
+<a href="https://github.com/Abhishek-kumar-rana?tab=followers">
+  <img src="https://img.shields.io/github/followers/Abhishek-kumar-rana?label=Followers&style=for-the-badge&color=7c3aed&labelColor=1e1b4b"/>
+</a>
+<img src="https://img.shields.io/badge/LeetCode-1500%2B%20Rating-f97316?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/DSA-450%2B%20Problems-22c55e?style=for-the-badge&logo=leetcode&logoColor=white"/>
 
 </div>
 
 ---
 
-<!-- ABOUT ME SECTION -->
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
+<!-- ABOUT ME -->
+<img align="right" width="310" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
 
-## 🧠 About Me
+## 🧬 About Me
 
-```typescript
-const Abhishek = {
-  name     : "Abhishek Kumar Rana",
-  role     : "Full Stack Developer",
-  location : "India 🇮🇳",
-  languages: ["TypeScript", "JavaScript", "Java"],
-  stack    : {
-    frontend : ["Next.js", "React", "Tailwind CSS"],
-    backend  : ["Node.js", "Java", "REST APIs"],
-    tools    : ["Git", "Netlify", "Vercel"],
-  },
-  currentlyBuilding : "Portfolio 2.0 & Calenderly",
-  funFact  : "I turn caffeine into code ☕→💻",
-  goals    : ["Ship great products", "Grow every day"],
-};
+```java
+public class Abhishek extends Developer {
+
+    String name      = "Abhishek Kumar Rana";
+    String college   = "BIT Sindri, Dhanbad (CSE '26)";
+    float  cgpa      = 7.10f;
+    String phone     = "+91 6207021678";
+    String email     = "lalanrana01000@gmail.com";
+
+    String[] stack   = {
+        "MERN Stack", "Spring Boot", "REST APIs",
+        "Socket.IO", "JWT", "PostgreSQL"
+    };
+
+    String[] superPowers = {
+        "Building scalable full-stack apps 🏗️",
+        "Cracking DSA problems at 1500+ rating 🧠",
+        "Real-time systems with Socket.IO ⚡",
+        "Turning coffee into clean code ☕"
+    };
+
+    String goal = "Ship impactful products & keep growing 🚀";
+}
 ```
 
 <br clear="right"/>
 
 ---
 
-<!-- TECH STACK -->
 ## 🛠️ Tech Arsenal
 
 <div align="center">
 
-### 💻 Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### 💬 Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### ⚡ Frameworks & Libraries
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 🗄️ Tools & Platforms
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🔧 Tools & Technologies
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### 📚 CS Fundamentals
+![DSA](https://img.shields.io/badge/DSA-Expert-7c3aed?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-Strong-7c3aed?style=for-the-badge)
+![DBMS](https://img.shields.io/badge/DBMS-Solid-7c3aed?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux_Programming-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
 ---
 
-<!-- FEATURED PROJECTS -->
+## 💼 Work Experience
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║  🏢  NULLCLASS EDTECH PRIVATE LIMITED                                ║
+║  💼  Web Development Intern  |  🌐 Remote  |  📅 Sep 2024 – Oct 2024 ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+- 🔨 Built a **full-stack Stack Overflow clone** (MERN) with Q&A posting, upvotes/downvotes & real-time notifications
+- 🤖 Integrated a **chatbot** with OTP-based authentication and custom logic for programming-related queries
+- 🏆 Designed a **reward system** for user contributions; tracked device & browser login data for security
+- 🎓 Received mentorship from a senior developer on **real-world scalability practices**
+
+---
+
 ## 🚀 Featured Projects
 
 <div align="center">
 
-| 🏗️ Project | 🔍 Description | 🛠 Stack | 🔗 Link |
-|:---:|:---:|:---:|:---:|
-| **Portfolio 2.0** | Personal dev portfolio — version 2 of my digital home | TypeScript · Next.js · Tailwind | [View →](https://github.com/Abhishek-kumar-rana/portfolio2.0) |
-| **StackOverflow Clone** | Full-featured Q&A platform inspired by SO | JavaScript | [View →](https://github.com/Abhishek-kumar-rana/stackOverflow) |
-| **Calenderly** | Scheduling & calendar management app | TypeScript | [View →](https://github.com/Abhishek-kumar-rana/calenderly) |
-| **InvSERVER** | Robust backend server/API project | Java | [View →](https://github.com/Abhishek-kumar-rana/invSERVER) |
-| **ChatApp** | Real-time chat application | TypeScript | [View →](https://github.com/Abhishek-kumar-rana/chatapp) |
+### 🧾 QuickInvoice — Invoice Generator Website
+![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+
+> Full-stack invoice generator with **real-time preview**, PDF export & multiple responsive templates.
+> REST APIs via Spring Boot · PostgreSQL (Neon) for storage · Clerk auth · Cloudinary for media
+
+[![GitHub Frontend](https://img.shields.io/badge/Frontend-Source-181717?style=for-the-badge&logo=github)](https://github.com/Abhishek-kumar-rana)
+[![GitHub Backend](https://img.shields.io/badge/Backend-Source-181717?style=for-the-badge&logo=github)](https://github.com/Abhishek-kumar-rana/invSERVER)
+
+---
+
+### 💬 Stack Overflow Clone — Industry-Level Features
+![MERN](https://img.shields.io/badge/MERN_Stack-20232A?style=flat-square&logo=mongodb&logoColor=47A248)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens)
+
+> Q&A platform with **chatbot**, OTP auth, real-time notifications for answers & upvotes.
+> Reward system · Secure password reset · Device/browser login tracking
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-22c55e?style=for-the-badge&logo=vercel)](https://github.com/Abhishek-kumar-rana/stackOverflow)
+[![Source Code](https://img.shields.io/badge/Source-Code-181717?style=for-the-badge&logo=github)](https://github.com/Abhishek-kumar-rana/stackOverflow)
+
+---
+
+### ⚡ ChatFlow — Real-Time Messaging App
+![MERN](https://img.shields.io/badge/MERN_Stack-20232A?style=flat-square&logo=mongodb&logoColor=47A248)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+
+> Real-time chat with **instant messaging**, typing indicators & online/offline status.
+> JWT auth (HTTP-only cookies) · Media via Cloudinary · Message reactions & emoji picker
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-22c55e?style=for-the-badge&logo=vercel)](https://github.com/Abhishek-kumar-rana/chatapp)
+[![Source Code](https://img.shields.io/badge/Source-Code-181717?style=for-the-badge&logo=github)](https://github.com/Abhishek-kumar-rana/chatapp)
 
 </div>
 
 ---
 
-<!-- GITHUB STATS -->
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -107,31 +180,13 @@ const Abhishek = {
 
 <div align="center">
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-kumar-rana&theme=midnight-purple&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=f97316&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=6e7681" />
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-kumar-rana&theme=midnight-purple&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=f97316&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=6e7681"/>
 
 </div>
 
 ---
 
-<!-- CONTRIBUTION GRAPH -->
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhishek-kumar-rana/Abhishek-kumar-rana/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhishek-kumar-rana/Abhishek-kumar-rana/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Abhishek-kumar-rana/Abhishek-kumar-rana/output/github-snake.svg" />
-</picture>
-
-*If the snake doesn't appear, set up [GitHub Actions snake workflow](https://github.com/Platane/snk)*
-
-</div>
-
----
-
-<!-- ACTIVITY GRAPH -->
-## 📈 Activity Graph
+## 📈 Contribution Activity
 
 <div align="center">
 
@@ -141,55 +196,72 @@ const Abhishek = {
 
 ---
 
-<!-- DEVELOPER JOURNEY -->
-## 🗺️ Developer Journey
-
-```
-2023 ──────────────────────────────────────────────────────────── 2026 →
-  │                                                                    │
-  ▼                                                                    ▼
-Started          Built           Java            Next.js          32+ Repos
-Coding  ──────▶ Portfolio ─────▶ Backend ───────▶ Projects ──────▶ & Growing
-         JS/TS    v1 & v2       invSERVER       Calenderly
-                                               StackOverflow clone
-```
-
----
-
-<!-- WHAT I'M UP TO -->
-## 🌱 Currently
-
-- 🔭 Working on **Portfolio 2.0** and **Calenderly**
-- 🌱 Deepening expertise in **TypeScript** & **System Design**
-- 👯 Open to collaborating on **open-source** or **startup ideas**
-- 💬 Ask me about **React**, **Next.js**, **Java backends**
-- ⚡ Fun fact: I've built a StackOverflow clone — yes, I used Google while doing it 😄
-
----
-
-<!-- CONNECT -->
-## 🤝 Let's Connect
+## 🏆 Achievements & Courses
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Abhishek--kumar--rana-181717?style=for-the-badge&logo=github)](https://github.com/Abhishek-kumar-rana)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Site-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Abhishek-kumar-rana/portfolio2.0)
-
-<br/>
-
-**✉️ Open to Opportunities · Collaborations · Freelance Projects**
+| 🏅 Achievement | 🔢 Detail |
+|:---|:---|
+| 🧠 LeetCode Problems Solved | **450+ problems** · **1500+ rating** |
+| 🥇 BITCode Contest (Sep 2023) | **Rank 8** — HNCC college round |
+| 📘 Java Spring Boot + Spring AI (Gen AI) | Udemy by Telusko (2025) |
 
 </div>
 
 ---
 
-<!-- FOOTER -->
+## 🎓 Education
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  🏛️  Birsa Institute of Technology Sindri                        │
+│  📍  Dhanbad, Jharkhand                                          │
+│  🎓  B.Tech — Computer Science & Engineering                     │
+│  📅  Aug 2022 – June 2026                                        │
+│  📊  CGPA: 7.10 / 10                                             │
+└─────────────────────────────────────────────────────────────────┘
+```
 
-*⭐ Star some repos if you find them interesting! It means the world 🌍*
+</div>
 
-**"Code is like humor. When you have to explain it, it's bad." — Cory House**
+---
+
+## 🌱 Currently
+
+- 🔭 Building **QuickInvoice** (React + Spring Boot) & **Calenderly**
+- 📚 Studying **Spring AI / Generative AI** on Udemy
+- 🧩 Grinding **LeetCode** daily — targeting **500+ problems**
+- 💡 Exploring **System Design** and **microservices architecture**
+- 📸 Hobbies: Photography · Competitive Programming · Sports · Stock Investing
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek-kumar-rana)
+[![LeetCode](https://img.shields.io/badge/LeetCode-1500%2B-f97316?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Abhishek-kumar-rana/portfolio2.0)
+[![Email](https://img.shields.io/badge/Email-lalanrana01000%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lalanrana01000@gmail.com)
+
+<br/>
+
+**📞 +91 6207021678 · Open to Internships, Collabs & Full-Time Roles**
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer"/>
+
+*"First, solve the problem. Then, write the code." — John Johnson*
+
+⭐ **If you like my work, drop a star on a repo — it fuels the grind!** ⭐
 
 </div>
