@@ -17,6 +17,8 @@
 </a>
 <img src="https://img.shields.io/badge/LeetCode-1500%2B%20Rating-f97316?style=for-the-badge&logo=leetcode&logoColor=white"/>
 <img src="https://img.shields.io/badge/DSA-450%2B%20Problems-22c55e?style=for-the-badge&logo=leetcode&logoColor=white"/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://abhirana.netlify.app)
+
 
 </div>
 
