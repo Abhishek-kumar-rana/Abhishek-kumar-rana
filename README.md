@@ -4,13 +4,13 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,100:24243e&height=220&section=header&text=Abhishek%20Kumar%20Rana&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Spring%20Boot%20%7C%20DSA%20Enthusiast&descAlignY=60&descSize=17&animation=fadeIn"/>
 
 <!-- TYPING SVG -->
-<a href="https://git.io/typing-svg">
+<a href="https://github.com/Abhishek-kumar-rana">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Hey!+I'm+Abhishek+Kumar+Rana+%F0%9F%91%8B;Full+Stack+Dev+%7C+MERN+%2B+Spring+Boot+%F0%9F%9A%80;450%2B+LeetCode+Problems+Solved+%F0%9F%A7%A0;B.Tech+CSE+%40+BIT+Sindri+%F0%9F%8E%93;Building+Real-World+Products+%F0%9F%92%AB;Open+to+Internships+%26+Collabs+%F0%9F%A4%9D" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<!-- BADGES -->
+<!-- BADGES (no unknown links — static badges only) -->
 <img src="https://komarev.com/ghpvc/?username=Abhishek-kumar-rana&label=Profile+Views&color=7c3aed&style=for-the-badge"/>
 <a href="https://github.com/Abhishek-kumar-rana?tab=followers">
   <img src="https://img.shields.io/github/followers/Abhishek-kumar-rana?label=Followers&style=for-the-badge&color=7c3aed&labelColor=1e1b4b"/>
@@ -148,7 +148,6 @@ public class Abhishek extends Developer {
 > Q&A platform with **chatbot**, OTP auth, real-time notifications for answers & upvotes.
 > Reward system · Secure password reset · Device/browser login tracking
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-22c55e?style=for-the-badge&logo=vercel)](https://github.com/Abhishek-kumar-rana/stackOverflow)
 [![Source Code](https://img.shields.io/badge/Source-Code-181717?style=for-the-badge&logo=github)](https://github.com/Abhishek-kumar-rana/stackOverflow)
 
 ---
@@ -161,7 +160,6 @@ public class Abhishek extends Developer {
 > Real-time chat with **instant messaging**, typing indicators & online/offline status.
 > JWT auth (HTTP-only cookies) · Media via Cloudinary · Message reactions & emoji picker
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-22c55e?style=for-the-badge&logo=vercel)](https://github.com/Abhishek-kumar-rana/chatapp)
 [![Source Code](https://img.shields.io/badge/Source-Code-181717?style=for-the-badge&logo=github)](https://github.com/Abhishek-kumar-rana/chatapp)
 
 </div>
@@ -190,7 +188,7 @@ public class Abhishek extends Developer {
 
 <div align="center">
 
-[![Abhishek's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhishek-kumar-rana&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f97316&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Abhishek's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhishek-kumar-rana&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f97316&area=true&hide_border=true)](https://github.com/Abhishek-kumar-rana)
 
 </div>
 
@@ -242,10 +240,10 @@ public class Abhishek extends Developer {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-kumar-rana)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek-kumar-rana)
-[![LeetCode](https://img.shields.io/badge/LeetCode-1500%2B-f97316?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Abhishek-kumar-rana/portfolio2.0)
+[![LeetCode](https://img.shields.io/badge/LeetCode-1500%2B-f97316?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Abhishek-kumar-rana)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://abhirana.netlify.app)
 [![Email](https://img.shields.io/badge/Email-lalanrana01000%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lalanrana01000@gmail.com)
 
 <br/>
